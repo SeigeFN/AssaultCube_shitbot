@@ -1,0 +1,17 @@
+﻿  dllmain.cpp
+C:\Documents\Game Hacking\Visual Studio C++\newDLL1\newDLL1\dllmain.cpp(170,27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+C:\Documents\Game Hacking\Visual Studio C++\newDLL1\newDLL1\dllmain.cpp(175,29): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+C:\Documents\Game Hacking\Visual Studio C++\newDLL1\newDLL1\dllmain.cpp(63,11): warning C4101: 'currEntPosX': unreferenced local variable
+  (compiling source file '/dllmain.cpp')
+  
+C:\Documents\Game Hacking\Visual Studio C++\newDLL1\newDLL1\dllmain.cpp(64,11): warning C4101: 'currEntPosY': unreferenced local variable
+  (compiling source file '/dllmain.cpp')
+  
+C:\Documents\Game Hacking\Visual Studio C++\newDLL1\newDLL1\dllmain.cpp(65,11): warning C4101: 'currEntPosZ': unreferenced local variable
+  (compiling source file '/dllmain.cpp')
+  
+  newDLL1.vcxproj -> C:\Documents\Game Hacking\Visual Studio C++\newDLL1\Debug\newDLL1.dll
