@@ -1,4 +1,5 @@
 # AssaultCube_shitbot
+--INACTIVE--
 absolute POS aimbot, with some other functionality thrown in
 - buggy ass graphics when aimbot is enabled (L)
 - nospread + rapid fire (not toggleable lol) (O)
